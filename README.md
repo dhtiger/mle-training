@@ -15,4 +15,14 @@ The following techniques have been used:
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
 ## To excute the script
-python < scriptname.py >
+
+After cloning this repo, move to the folder mle-training.
+
+Step 1: Create conda environment using the file given in the repo with extension .yml, using the below command.
+'conda env create -f <Path to .yml file>'
+
+Step 2: Activate the created python environment:
+'conda activate mle-dev'
+
+Step 3: Run the python file using the below command:
+'python nonstandardcode.py'
