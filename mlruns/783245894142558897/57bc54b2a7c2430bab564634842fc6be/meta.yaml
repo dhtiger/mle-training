@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vislavath/mle-training/mlruns/783245894142558897/57bc54b2a7c2430bab564634842fc6be/artifacts
+end_time: 1684896291763
+entry_point_name: ''
+experiment_id: '783245894142558897'
+lifecycle_stage: active
+run_id: 57bc54b2a7c2430bab564634842fc6be
+run_name: MODEL_TRAINING
+run_uuid: 57bc54b2a7c2430bab564634842fc6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684896141358
+status: 3
+tags: []
+user_id: vislavath
